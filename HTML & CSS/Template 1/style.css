@@ -1,3 +1,42 @@
-div{
-    height: 100%;
+body{
+    background-color:white;
+    height: 2000px;
 }
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 2000px;
+}
+header{
+    background-color:rgb(243, 237, 156);
+    height: 150px;
+    width: 800px;
+    text-decoration-color: black;
+    text-align: center;
+}
+
+main{
+    background-color: rgb(218, 235, 250);
+    height: 800px;
+    width: 800px;
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+}
+.map{
+    height:250px;
+    width:800px;
+}
+
+footer{
+    background-color: goldenrod;
+    height: 100px;
+    width: 800px;
+}
+nav a{
+    text-decoration: none;
+}
+
